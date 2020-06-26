@@ -1,2 +1,2 @@
 # pwfs-archive
-Files relating to pyramid wavefront sensor simulation.
+An unstructured collection of files relating to pyramid wavefront sensor simulation.
